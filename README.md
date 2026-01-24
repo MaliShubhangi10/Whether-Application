@@ -1,4 +1,4 @@
-# Whether-Application
+# Weather-Application
 
 Python Based Application💥
 OpenWhether Used✅
